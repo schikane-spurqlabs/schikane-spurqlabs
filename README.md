@@ -1,4 +1,4 @@
-![logo](https://github.com/schikane-spurqlabs/schikane-spurqlabs/blob/main/image11.jpg)
+![logo](https://github.com/schikane-spurqlabs/schikane-spurqlabs/blob/main/new%20image%20logo.jpg)
 <h1 align="center">Hi 👋, I'm Shubham Chikane</h1>
 <h3 align="center">A passionate SDET from India</h3>
 <img align="right" alt="coding" width="400" src="[https://i.gifer.com/GYny.gif](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazktVTRpVEpGZW0xUS05N1ZGTzlhQlVpQTA4d3xBQ3Jtc0trckpmcDU2cHBxTmdTenFaVW91TWtkekxCZllYTEliMlF6RmtXWEh0a25hblJRZzB5Vk54VkdhS2VHT3ZuTExJa3NLVWZnWjBwM3ZxbVQtbi0tVTEySktaWGQxcm1tcHNXNHo5cm1xMEVueGc0aGJGRQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0)" >
